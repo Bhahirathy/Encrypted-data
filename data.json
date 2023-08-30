@@ -1,0 +1,17 @@
+{
+    "names": [
+        "Jack Reacher",
+        "John Wick",
+        "Sarah Connor"
+    ],
+    "origins": [
+        "Bengaluru",
+        "Mumbai",
+        "New York"
+    ],
+    "destinations": [
+        "Mumbai",
+        "Delhi",
+        "Los Angeles"
+    ]
+}
